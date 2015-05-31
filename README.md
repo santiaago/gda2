@@ -1,5 +1,6 @@
 # gda2
-minimal golang dart angular2 web app
+
+A minimal web app made in [golang](http://golang.org), [dart](https://dartlang.org) and [angular 2](https://angular.io/)
 
 ####install:
 
