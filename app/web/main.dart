@@ -17,8 +17,7 @@ class AppComponent {
   Hello hello = new Hello();
 }
 
-
-class Hello{
+Class Hello{
 
   String message;
 
@@ -33,7 +32,6 @@ class Hello{
             });
   }
 }
-
 
 main() {
   // Temporarily needed.
