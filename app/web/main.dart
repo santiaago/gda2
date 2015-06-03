@@ -10,14 +10,14 @@ import 'package:angular2/src/reflection/reflection_capabilities.dart' show Refle
   selector: 'my-app'
 )
 @View(
-  template: '<h1>"{{hello.message}}"</h1>'
+  template: '<h1>{{hello.message}}</h1>'
 )
 
 class AppComponent {
   Hello hello = new Hello();
 }
 
-Class Hello{
+class Hello{
 
   String message;
 
