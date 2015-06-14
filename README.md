@@ -17,7 +17,7 @@ A minimal web app made in [Golang](http://golang.org), [Dart](https://dartlang.o
     > cd $GOPATH/src/github.com/santiaago/gda2
     > go get ./backend
 
-####build frontend:
+####prepare the frontend:
 
     > cd app
     > pub get
