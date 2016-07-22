@@ -1,6 +1,6 @@
 name: gda2
 version: 0.0.1
 dependencies:
-  angular2: 2.0.0-alpha.23
+  angular2: 2.0.0-beta.18
   browser: any
   json_object: any
